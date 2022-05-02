@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maximiliano Veiga</h1>
 <h3 align="center">A passionate backend developer and machine learning enthusiat from Brazil</h3>
 
-- 🔭 I’m currently working on **C6Bank** as **Data Analyst**
+- 🔭 I’m currently working on **Algar Tech** as **Solutions Architect**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **me@maximilianoveiga.com.br**
 
-My name is Maximiliano, I am a student of Systems Analysis and Development at IFRS and I am passionate about Artificial Intelligence. Since 2019 I have been studying and applying my knowledge in Data Science and Machine Learning in the area of chatbots and voicebots, in which I am extremely passionate and motivated.
+My name is Maximiliano, I am a student of Systems Analysis and Development at IFRS and I am passionate about Artificial Intelligence. Since i was 18 I have been studying and applying my knowledge in Data Science and Machine Learning in the area of chatbots and voicebots, in which I am extremely passionate and motivated.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
