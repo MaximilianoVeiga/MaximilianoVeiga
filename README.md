@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Maximiliano Veiga</h1>
+<h1 align="center">Maximiliano Veiga</h1>
 <h3 align="center">A passionate backend developer and machine learning enthusiat from Brazil</h3>
 
-- 🔭 I’m currently working on **Algar Tech** as **Solutions Architect**
+- 🔭 I’m currently working on **Sensedia** as **Solutions Architect**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **me@maximilianoveiga.com.br**
 
-My name is Maximiliano, I am a student of Systems Analysis and Development at IFRS and I am passionate about Artificial Intelligence. Since i was 18 I have been studying and applying my knowledge in Data Science and Machine Learning in the area of chatbots and voicebots, in which I am extremely passionate and motivated.
+Hi, my name is Maximiliano Veiga and I hold a degree in Systems Analysis and Development from IFRS. Over the past four years, I have gained valuable experience in systems development, both through my studies and through various projects and positions I have held.
+
+As a Senior Backend Developer, I have a range of skills and experience, including DevOps, Machine Learning, and NLP Engineering, as well as project ownership. In recent years, I have focused on using Golang and SQL to develop chatbots and voicebots for analytics purposes.
+
+In my work as a Backend Developer, I have utilized a range of technologies, including Node.JS, PHP, SQL, and Golang, as well as databases such as PostgreSQL, MongoDB, DynamoDB, and Redis. As an NLP Engineer, I have built neural networks from scratch to meet the needs of diverse customers and have also worked on speech-to-text and text-to-speech recognition and transcription for voicebots.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
