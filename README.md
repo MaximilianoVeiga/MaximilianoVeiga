@@ -1,26 +1,48 @@
 <h1 align="center">Maximiliano Veiga</h1>
-<h3 align="center">A passionate backend developer and machine learning enthusiat from Brazil</h3>
+<h3 align="center">Solutions Architect • Generative AI & Software Architecture</h3>
 
-- 🔭 I’m currently working on **Sensedia** as **Solutions Architect**
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
-- 📝 If you want to know me better, visit my website [https://www.maximilianoveiga.com.br/](https://www.maximilianoveiga.com.br/)
-
-- 💬 Ask me about **Node.JS, Golang, PHP, Python** and *Machine Learning*
-
-- 📫 How to reach me **me@maximilianoveiga.com.br**
-
-Hi, my name is Maximiliano Veiga and I hold a degree in Systems Analysis and Development from IFRS. Over the past four years, I have gained valuable experience in systems development, both through my studies and through various projects and positions I have held.
-
-As a Senior Backend Developer, I have a range of skills and experience, including DevOps, Machine Learning, and NLP Engineering, as well as project ownership. In recent years, I have focused on using Golang and SQL to develop chatbots and voicebots for analytics purposes.
-
-In my work as a Backend Developer, I have utilized a range of technologies, including Node.JS, PHP, SQL, and Golang, as well as databases such as PostgreSQL, MongoDB, DynamoDB, and Redis. As an NLP Engineer, I have built neural networks from scratch to meet the needs of diverse customers and have also worked on speech-to-text and text-to-speech recognition and transcription for voicebots.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maximilianoveiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilianoveiga" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img height="160" src="https://github-readme-stats.vercel.app/api?username=MaximilianoVeiga&show_icons=true&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoVeiga&layout=compact&langs_count=8"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### About me
+I’m a Solutions Architect specialized in Generative AI and software architecture. I design and ship AI systems end-to-end — from prompt engineering and RAG to production APIs and MLOps.
+
+- Currently working as **Solutions Architect**  
+- Building **LLM apps, AI agents and RAG pipelines** at scale  
+- Always learning: **LLMs, LangGraph, evaluation, observability**  
+- Ask me about **Node.js, TypeScript, Python, Go** and **Machine Learning**
+
+### Tech stack
+**AI / GenAI:** OpenAI/Azure OpenAI, Llama, LangChain/LangGraph, RAG, embeddings, eval  
+**Backend:** Node.js, TypeScript, Python, Go, Java, REST APIs  
+**Data & Vector:** PostgreSQL, MongoDB, DynamoDB, Redis, Qdrant, PGVector, Pinecone  
+**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD
+
+---
+
+### Speaking & writing
+- Building **RAG systems** with vector DBs (Qdrant, PGVector, Pinecone)  
+- **Agentic workflows** with LangChain/LangGraph  
+- **Evaluation & observability** for LLM apps  
+- **API design & platform engineering** for AI products
+
+---
+
+### Connect
+- LinkedIn: **https://www.linkedin.com/in/maximilianoveiga/**  
+- Email: **maximiliano.veiga@lumenlabs.dev**
+
+---
+
+### Tooling & badges (quick picks)
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=whi
